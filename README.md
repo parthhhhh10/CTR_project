@@ -17,7 +17,7 @@ Of course! Here's a **professional, attractive `README.md`** you can directly us
 
 ## ✨ Features
 
-- 🖥️ Beautiful and Responsive UI (Dark + Vibrant Theme Options)
+- 🖥️ Beautiful and Responsive UI 
 - 📊 Real-time Ad Click Prediction using a trained Random Forest model
 - 🎯 Confidence-level-based prediction (optional extension)
 - 🚀 Fast performance with Flask backend
@@ -26,15 +26,8 @@ Of course! Here's a **professional, attractive `README.md`** you can directly us
 
 ---
 
-## 📸 Screenshots
 
-| Dark Theme | Vibrant Theme |
-|:----------:|:-------------:|
-| ![Dark Mode Screenshot](link-to-dark-theme-screenshot) | ![Vibrant Mode Screenshot](link-to-vibrant-theme-screenshot) |
 
-> _Screenshots coming soon!_
-
----
 
 ## 🛠️ Tech Stack
 
