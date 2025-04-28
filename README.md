@@ -22,7 +22,7 @@ Of course! Here's a **professional, attractive `README.md`** you can directly us
 - 🎯 Confidence-level-based prediction (optional extension)
 - 🚀 Fast performance with Flask backend
 - 🌎 API endpoint available for programmatic access
-- 📱 Mobile-friendly and desktop-optimized
+- 📱 Desktop-optimized
 
 ---
 
